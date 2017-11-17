@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27 août 2017, 22:01:43
+    Author     : rvnew
+*/
+header {
+    height: 100px;
+    text-align: center;
+    background-color: #eccff8;
+    line-height: 100px;
+    color : #a706ec;
+    font-weight: bold;       
+}
+
+footer {
+    height: 50px;
+    text-align: left;
+    background-color: #eccff8;
+    line-height: 50px;
+    color : grey;
+    font-size: 9px;      
+}
+.btn-primary {
+    background-color: #eccff8;
+    color : #a706ec;
+    font-weight: bold;    
+}
+.item_liste {
+    height : 50px;
+    line-height: 50px;
+    font-weight: bold;
+    margin : 2px;
+    text-align: center;
+    border : 1px solid black;
+    color :black;
+}
+.item_liste_trash {
+    height : 50px;
+    line-height: 50px;
+    font-weight: bold;
+    margin : 2px;
+    text-align: center;
+    border : 1px solid black;
+    color :black;
+}
+
+.bouton_supprimer {
+    margin-bottom: 20px;
+}
+.check {
+    height : 50px;
+    width: 50px;
+    background-color: orange;
+    margin-left:  -30px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    text-align: center;
+    border : 1px solid black;
+    color :black;
+}
